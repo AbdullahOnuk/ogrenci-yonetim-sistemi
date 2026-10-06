@@ -1,0 +1,15 @@
+# Yerel öğrenci kayıtları
+students.json
+
+# Python ve sanal ortamlar
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Yerel ayarlar
+.env
+.env.*
+.idea/
+.vscode/
